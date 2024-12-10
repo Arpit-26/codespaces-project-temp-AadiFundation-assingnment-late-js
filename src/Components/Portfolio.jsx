@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Vihaas Design Technologies Official Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed and developed the company's official website using React JS, Tailwind CSS, and JavaScript (ES6+). Focused on creating a visually appealing, responsive, and user-friendly interface.",
+    url: "https://www.vihaasdtech.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Portfolio Web App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A single-page web application showcasing my skills, projects, and contact details. Developed using React JS, Firebase, HTML, and CSS, it features a dynamic and responsive design that is 15% faster than traditional websites.",
+    url: "https://portfolio-app-9da43.web.app/",
   },
   {
-    title: "My Resume Site",
+    title: "Point of Sales System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A backend project for inventory, user, and customer management. Built using Java, Hibernate, and MySQL, it simplifies database interactions and provides authentication features for secure login.",
+    url: "https://github.com/Arpit-26",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Stock Management System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a full-stack Java application to optimize stock management, reducing process time by 80% and achieving 100% accuracy. Utilized Java, Hibernate, and efficient data structures for optimal performance.",
+    url: "https://github.com/Arpit-26",
   },
 ];
 
